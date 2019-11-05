@@ -1,0 +1,6 @@
+name "rendercmp"
+description "Compare render output images"
+authors "clipsey"
+copyright "Copyright © 2019, clipsey"
+license "BSL-1.0"
+dependency "imageformats" version="~>7.0.2"
